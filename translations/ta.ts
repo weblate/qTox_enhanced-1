@@ -204,7 +204,7 @@ which may lead to problems with video calls.</source>
     </message>
     <message>
         <source>You are using qTox version %1.</source>
-        <translation>நீங்கள் பயன்படுத்துவது qTox பதிப்பு %1</translation>
+        <translation>நீங்கள் பயன்படுத்துவது qTox பதிப்பு %1.</translation>
     </message>
     <message>
         <source>Commit hash: %1</source>
@@ -222,8 +222,7 @@ which may lead to problems with video calls.</source>
         <source>A list of all known issues may be found at our %1 at Github. If you discover a bug or security vulnerability within qTox, please report it according to the guidelines in our %2 wiki article.</source>
         <comment>`%1` is replaced by translation of `bug tracker`
 `%2` is replaced by translation of `Writing Useful Bug Reports`</comment>
-        <translation>முன்னறிந்த சிக்கல்களின் பட்டியலை Github இல் எங்கள் %1 கொண்டு அறியலாம். 
-qTox இல் தாங்கள் சிக்கலோ பாதுகாப்புத் தளர்வோ கண்டறிந்தால் அதைத் தயவுசெய்து எங்கள் %2 பயனரியக்குவலைதள கட்டுரையின் வழிகாட்டுதல்களின்படி பதிவு செய்யவும்.</translation>
+        <translation>முன்னறிந்த சிக்கல்களின் பட்டியலை Github இல் எங்கள் %1 கொண்டு அறியலாம். qTox இல் தாங்கள் சிக்கலோ பாதுகாப்புத் தளர்வோ கண்டறிந்தால் அதைத் தயவுசெய்து எங்கள் %2 பயனரியக்குவலைதள கட்டுரையின் வழிகாட்டுதல்களின்படி பதிவு செய்யவும்.</translation>
     </message>
     <message>
         <source>Click here to report a bug.</source>
@@ -314,7 +313,7 @@ qTox இல் தாங்கள் சிக்கலோ பாதுகாப
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This is the public key of your friend, use it to verify their identity via another channel. You can not send this to other people so they can add this contact.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;Html&gt; &lt;head/&gt; &lt;body&gt; &lt;p&gt; இது உங்கள் நண்பரின் பொது விசை, மற்றொரு சேனல் வழியாக அவர்களின் அடையாளத்தை சரிபார்க்க இதைப் பயன்படுத்தவும். இதை நீங்கள் மற்றவர்களிடம் அனுப்ப முடியாது, எனவே அவர்கள் இந்த தொடர்பைச் சேர்க்கலாம். &lt;/P&gt; &lt;/body&gt; &lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt; &lt;body&gt; &lt;p&gt; இது உங்கள் நண்பரின் பொது விசை, மற்றொரு சேனல் வழியாக அவர்களின் அடையாளத்தைச் சரிபார்க்க இதைப் பயன்படுத்தவும். இதை நீங்கள் மற்றவர்களிடம் அனுப்ப முடியாது, எனவே அவர்கள் இந்தத் தொடர்பைச் சேர்க்கலாம். &lt;/p&gt;&lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <source>Public key (not ToxID):</source>
@@ -961,7 +960,7 @@ so you can save the file on Windows.</source>
     <message>
         <source>ETA:10:10</source>
         <translatorcomment>Ausgelassen</translatorcomment>
-        <translation>ETA 10 10</translation>
+        <translation>எநே:10:10</translation>
     </message>
     <message>
         <source>Filename</source>
@@ -981,7 +980,7 @@ so you can save the file on Windows.</source>
     <message>
         <source>Location not writable</source>
         <comment>Title of permissions popup</comment>
-        <translation>தங்கள்  கோப்பகத்தில் எழுதுதல் இயலாது</translation>
+        <translation>இடத்தை எழுதுதல் இயலாது</translation>
     </message>
     <message>
         <source>You do not have permission to write that location. Choose another, or cancel the save dialog.</source>
@@ -2158,7 +2157,7 @@ Please use another image.</source>
     <message>
         <source>Location not writable</source>
         <comment>Title of permissions popup</comment>
-        <translation>தங்கள்  கோப்பகத்தில் எழுதுதல் இயலாது</translation>
+        <translation>இடத்தை எழுதுதல் இயலாது</translation>
     </message>
     <message>
         <source>Nothing to remove</source>
