@@ -1395,7 +1395,7 @@ the only allowed Push Servers are (no other servers will ever be contacted):
     </message>
     <message>
         <source>Create new group</source>
-        <translation type="unfinished"></translation>
+        <translation>新建群組</translation>
     </message>
     <message>
         <source>Group invites</source>
@@ -1406,46 +1406,46 @@ the only allowed Push Servers are (no other servers will ever be contacted):
     <name>GroupInviteWidget</name>
     <message>
         <source>Invited by %1 on %2 at %3.</source>
-        <translation type="unfinished"></translation>
+        <translation>由%1於%2在%3邀請。</translation>
     </message>
     <message>
         <source>Join</source>
-        <translation type="unfinished"></translation>
+        <translation>加入</translation>
     </message>
     <message>
         <source>Decline</source>
-        <translation type="unfinished"></translation>
+        <translation>拒絕</translation>
     </message>
 </context>
 <context>
     <name>GroupWidget</name>
     <message>
         <source>Set title...</source>
-        <translation type="unfinished"></translation>
+        <translation>設定昵稱...</translation>
     </message>
     <message>
         <source>Open chat in new window</source>
-        <translation type="unfinished"></translation>
+        <translation>在新視窗中 開啟聊天</translation>
     </message>
     <message>
         <source>Remove chat from this window</source>
-        <translation type="unfinished"></translation>
+        <translation>從此視窗刪除聊天</translation>
     </message>
     <message>
         <source>Quit group</source>
         <comment>Menu to quit a groupchat</comment>
-        <translation type="unfinished"></translation>
+        <translation>退出群組</translation>
     </message>
     <message numerus="yes">
         <source>%n user(s) in chat</source>
         <comment>Number of users in chat</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>聊天中%n位用戶</numerusform>
         </translation>
     </message>
     <message>
         <source>New Message</source>
-        <translation type="unfinished"></translation>
+        <translation>新訊息</translation>
     </message>
     <message>
         <source>Online</source>
@@ -1453,14 +1453,14 @@ the only allowed Push Servers are (no other servers will ever be contacted):
     </message>
     <message>
         <source>Change your name in this group</source>
-        <translation type="unfinished"></translation>
+        <translation>群組內改變名稱</translation>
     </message>
 </context>
 <context>
     <name>IdentitySettings</name>
     <message>
         <source>Public Information</source>
-        <translation type="unfinished"></translation>
+        <translation>公開訊息</translation>
     </message>
     <message>
         <source>Tox ID</source>
@@ -1468,21 +1468,21 @@ the only allowed Push Servers are (no other servers will ever be contacted):
     </message>
     <message>
         <source>Your Tox ID (click to copy)</source>
-        <translation type="unfinished"></translation>
+        <translation>您的Tox ID（點選複製）</translation>
     </message>
     <message>
         <source>Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>設定檔</translation>
     </message>
     <message>
         <source>Rename profile.</source>
         <comment>tooltip for renaming profile button</comment>
-        <translation type="unfinished"></translation>
+        <translation>更名個人檔。</translation>
     </message>
     <message>
         <source>Go back to the login screen</source>
         <comment>tooltip for logout button</comment>
-        <translation type="unfinished"></translation>
+        <translation>返回登入畫面</translation>
     </message>
     <message>
         <source>Logout</source>
@@ -1538,51 +1538,51 @@ Profile does not contain your history.</source>
     <message>
         <source>Remove your password and encryption from your profile.</source>
         <comment>Tooltip for the `Remove password` button.</comment>
-        <translation type="unfinished"></translation>
+        <translation>移除您設定檔中的密碼與加密設定。</translation>
     </message>
     <message>
         <source>Name input</source>
-        <translation type="unfinished"></translation>
+        <translation>輸入名稱</translation>
     </message>
     <message>
         <source>Name visible to contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>聯絡人可見名稱</translation>
     </message>
     <message>
         <source>Status message input</source>
-        <translation type="unfinished"></translation>
+        <translation>簡訊驗證碼輸入</translation>
     </message>
     <message>
         <source>Status message visible to contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>聯絡人可見的簡訊驗證碼</translation>
     </message>
     <message>
         <source>Your Tox ID</source>
-        <translation type="unfinished"></translation>
+        <translation>您的 Tox ID</translation>
     </message>
     <message>
         <source>Save QR image as file</source>
-        <translation type="unfinished"></translation>
+        <translation>儲存QR碼圖片為檔案</translation>
     </message>
     <message>
         <source>Copy QR image to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>復制QR碼圖片到剪貼簿</translation>
     </message>
     <message>
         <source>Rename profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>變更使用者賬戶名稱。</translation>
     </message>
     <message>
         <source>Delete profile.</source>
-        <translation type="unfinished"></translation>
+        <translation>刪除賬戶。</translation>
     </message>
     <message>
         <source>Export profile</source>
-        <translation type="unfinished"></translation>
+        <translation>匯出賬戶</translation>
     </message>
     <message>
         <source>Remove password from profile</source>
-        <translation type="unfinished"></translation>
+        <translation>刪除個人檔中的密碼</translation>
     </message>
     <message>
         <source>Change profile password</source>
@@ -1781,7 +1781,7 @@ Please make sure to enter the same password twice.</source>
     </message>
     <message>
         <source>Create a group chat</source>
-        <translation type="unfinished"></translation>
+        <translation>建立群組</translation>
     </message>
     <message>
         <source>View completed file transfers</source>
