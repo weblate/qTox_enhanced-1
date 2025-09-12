@@ -1586,15 +1586,15 @@ Profile does not contain your history.</source>
     </message>
     <message>
         <source>Change profile password</source>
-        <translation type="unfinished"></translation>
+        <translation>變更個人檔密碼</translation>
     </message>
     <message>
         <source>My name:</source>
-        <translation type="unfinished"></translation>
+        <translation>我的名稱：</translation>
     </message>
     <message>
         <source>My status:</source>
-        <translation type="unfinished"></translation>
+        <translation>我的狀態：</translation>
     </message>
     <message>
         <source>My profile</source>
@@ -1604,41 +1604,42 @@ Profile does not contain your history.</source>
         <source>This ID allows other Tox users to add and contact you.
 Share it with your friends to begin chatting.</source>
         <comment>Tox ID tooltip</comment>
-        <translation type="unfinished"></translation>
+        <translation>這個ID讓其他Tox用戶能夠加入並聯絡您。
+將此ID分享給朋友即可開始聊天。</translation>
     </message>
 </context>
 <context>
     <name>LoadHistoryDialog</name>
     <message>
         <source>Load history dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>載入歷史聊天</translation>
     </message>
     <message>
         <source>Load history from:</source>
-        <translation type="unfinished"></translation>
+        <translation>從以下來源載入歷史記錄：</translation>
     </message>
 </context>
 <context>
     <name>LoginScreen</name>
     <message>
         <source>Username:</source>
-        <translation type="unfinished"></translation>
+        <translation>使用者名稱：</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>密碼：</translation>
     </message>
     <message>
         <source>Confirm:</source>
-        <translation type="unfinished"></translation>
+        <translation>再次確認：</translation>
     </message>
     <message>
         <source>Password strength: %p%</source>
-        <translation type="unfinished"></translation>
+        <translation>密碼強度：%p%</translation>
     </message>
     <message>
         <source>Create Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>建立設定檔</translation>
     </message>
     <message>
         <source>If the profile does not have a password, qTox can skip the login screen</source>
@@ -1646,15 +1647,15 @@ Share it with your friends to begin chatting.</source>
     </message>
     <message>
         <source>Load automatically</source>
-        <translation type="unfinished"></translation>
+        <translation>自動載入</translation>
     </message>
     <message>
         <source>Load</source>
-        <translation type="unfinished"></translation>
+        <translation>載入</translation>
     </message>
     <message>
         <source>Load Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>載入設定檔</translation>
     </message>
     <message>
         <source>New Profile</source>
@@ -1662,19 +1663,19 @@ Share it with your friends to begin chatting.</source>
     </message>
     <message>
         <source>Couldn&apos;t create a new profile</source>
-        <translation type="unfinished"></translation>
+        <translation>無法建立新設定檔</translation>
     </message>
     <message>
         <source>The username must not be empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>使用者名稱不得空白。</translation>
     </message>
     <message>
         <source>The password must be at least 6 characters long.</source>
-        <translation type="unfinished"></translation>
+        <translation>密碼長度至少需6個字元。</translation>
     </message>
     <message>
         <source>A profile with this name already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>已有相同名稱的設定檔存在。</translation>
     </message>
     <message>
         <source>Password protected profiles can&apos;t be automatically loaded.</source>
