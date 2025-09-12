@@ -1642,7 +1642,7 @@ Share it with your friends to begin chatting.</source>
     </message>
     <message>
         <source>Confirm:</source>
-        <translation>确认：</translation>
+        <translation>确认密码：</translation>
     </message>
     <message>
         <source>Password strength: %p%</source>
@@ -1650,7 +1650,7 @@ Share it with your friends to begin chatting.</source>
     </message>
     <message>
         <source>Create Profile</source>
-        <translation>创建配置</translation>
+        <translation>创建配置文件</translation>
     </message>
     <message>
         <source>Load automatically</source>
@@ -1670,7 +1670,7 @@ Share it with your friends to begin chatting.</source>
     </message>
     <message>
         <source>Load Profile</source>
-        <translation>加载配置</translation>
+        <translation>加载配置文件</translation>
     </message>
     <message>
         <source>Couldn&apos;t create a new profile</source>
