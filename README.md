@@ -1,6 +1,6 @@
 # Please switch to the more modern<br>and still well maintained [TRIfA Material](https://github.com/Zoxcore/trifa_material)
 
-<img src="https://github.com/Zoxcore/trifa_material/releases/download/nightly/screenshot-macos.png" width="90%">
+<img src="https://github.com/Zoxcore/trifa_material/releases/download/nightly/screenshot-macos-15arm.png" width="90%">
 
 
 [TRIfA Material](https://github.com/Zoxcore/trifa_material)
