@@ -99,6 +99,9 @@ std::unique_ptr<ToxOptions> ToxOptions::makeToxOptions(const QByteArray& savedat
     tox_options_set_savedata_data(toxOptions->get(),
                                   reinterpret_cast<const uint8_t*>(savedata.data()), savedata.size());
 
+    // required for threaded toxav
+    tox_options_set_experimental_thread_safety(toxOptions->get(), true);
+
     // IPv6 needed for LAN discovery, but can crash some weird routers. On by default, can be
     // disabled in options.
     const bool enableIPv6 = s.getEnableIPv6();
