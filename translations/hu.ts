@@ -2521,7 +2521,7 @@ Ez az azonosító tartalmazza a NoSpam kódot (kék színnel), valamint a ellen�
     <message>
         <source>The call was terminated because %1 unexpectedly went offline. %2</source>
         <translatorcomment>Automated translation.</translatorcomment>
-        <translation type="unfinished">A hívás megszakadt, mert %1 váratlanul offline állapotba került. %2</translation>
+        <translation>A hívás megszakadt, mert %1 váratlanul offline állapotba került. %2</translation>
     </message>
     <message>
         <source>Initializing</source>
